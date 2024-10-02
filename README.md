@@ -18,6 +18,11 @@ profissionalmente e compartilhar o que aprendo com a comunidade.
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-4EA94B?style=flat&logo=postgresql&logoColor=white)
+
 
 
 <!---
